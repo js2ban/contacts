@@ -11,3 +11,7 @@ https://js2ban.github.io/contacts/anil
 JSBAN :
 https://js2ban.github.io/contacts/qr.html?user=jsban
 https://js2ban.github.io/contacts/jsban
+
+SYJANG :
+https://js2ban.github.io/contacts/qr.html?user=syjang
+https://js2ban.github.io/contacts/syjang
